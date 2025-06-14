@@ -3,7 +3,7 @@
 This project demonstrates a **decision tree classifier** built in R to predict whether a user will purchase a product based on their age and estimated salary.
 
 ## 📂 Dataset
-- **Source:** `Social_Network_Ads.csv`
+- **Source:** [`Social_Network_Ads.csv`](https://github.com/SemaGasimzade/-Decision-Tree-Classification-/blob/main/Social_Network_Ads.csv)
 - **Features used:** `Age`, `EstimatedSalary`
 - **Target variable:** `Purchased` (0 or 1)
 
