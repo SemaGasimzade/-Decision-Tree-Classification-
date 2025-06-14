@@ -23,7 +23,7 @@ This project demonstrates a **decision tree classifier** built in R to predict w
    - Visualized the decision tree using `fancyRpartPlot` from the `rattle` library.
 
 ## 📊 Visualization
-![Decision Tree](Rplot_tree.png)
+[![Decision Tree](Rplot_tree.png)](https://github.com/SemaGasimzade/-Decision-Tree-Classification-/blob/main/Rplott.png)
 
 ## 📌 Key Insights
 
