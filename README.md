@@ -30,4 +30,15 @@ This project demonstrates a **decision tree classifier** built in R to predict w
 - The decision tree splits the feature space based on Age and Estimated Salary to determine purchasing behavior.
 - The resulting tree structure helps understand the decision rules behind the classification.
 
+### 🔍 Results & Interpretation
+
+A decision tree classification model was built using age and estimated salary to predict whether a user purchased a product. The model clearly splits users based on age and income levels:
+
+- Users under 45 with lower salaries are mostly predicted as not purchasing.
+- High earners or users above 50 are more likely to be predicted as purchasers.
+- The tree highlights salary thresholds (e.g., \$30k, \$81k, \$142k) as key decision boundaries.
+
+The visualization (generated with `rattle`) shows the model's logic and decision rules clearly, making it interpretable and useful for further analysis.
+
+
 To run the code, open the [`classification_model.R`](https://github.com/SemaGasimzade/-Decision-Tree-Classification-/blob/main/decision_tree_classification.R) script in RStudio and run each section step by step.
