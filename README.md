@@ -30,8 +30,4 @@ This project demonstrates a **decision tree classifier** built in R to predict w
 - The decision tree splits the feature space based on Age and Estimated Salary to determine purchasing behavior.
 - The resulting tree structure helps understand the decision rules behind the classification.
 
-## ▶️ How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/decision-tree-classification.git
+To run the code, open the `classification_model.R` script in RStudio and run each section step by step.
